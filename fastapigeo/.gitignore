@@ -1,0 +1,14 @@
+# Dentro de la carpeta geo-crud-fullstack, crea el archivo .gitignore con:
+
+# Python
+__pycache__
+venv
+
+# Node
+node_modules
+
+# Logs
+*.log
+
+# Otros
+.DS_Store
